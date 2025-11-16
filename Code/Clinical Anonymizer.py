@@ -47,7 +47,7 @@ KEY_VALUE_PAIRS = [
     "Name", "Last Name", "Family Name","First Name", "Middle Name", "Address", "Street Address",
     "City", "State", "Zip", "County", "Date of Birth", "birthdate", "DOB",
     "Age", "Date of Admission", "Admission Date", "Date of Discharge",
-    "Discharge Date", "Date of Death", "Date Measured", "Telephone Number", "Phone",
+    "Discharge Date", "Date of Death", "Date Measured", "Telephone Number", "Phone", "Telephone",
     "Fax Number", "Fax", "Email Address", "Email", "Social Security Number", "SSN",
     "Medical Record Number", "MRN", "Patient ID", "Patient Number",
     "Health Plan Beneficiary Number", "Member ID", "Insurance ID", "Insurance Number", "Health Insurance", "Account Number",
