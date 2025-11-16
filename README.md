@@ -25,8 +25,7 @@ This application is provided as a portable .zip file. No installation is require
 
 **Download the .zip file:**
 
-- Link:  
-  `https://heibox.uni-heidelberg.de/f/0b5bdb2dabc7497d953d/`
+- Safe Link:  https://heibox.uni-heidelberg.de/f/0b5bdb2dabc7497d953d/ 
 
 **Extract the .zip file:**
 
@@ -107,10 +106,7 @@ This program is provided **“AS IS,”** without warranty of any kind.
 
 ## 10) Acknowledgments and Donations
 
-This application was developed by **Mehrdad Davoudi**, PhD student, Clinic for Orthopaedics, Heidelberg University Hospital, Heidelberg, Germany.
-
-I gratefully acknowledge the support of the **Gesellschaft der Freunde der Universität Heidelberg e.V.** (Society of Friends of Heidelberg University).
-
+- I gratefully acknowledge the support of the **Gesellschaft der Freunde der Universität Heidelberg e.V. (Society of Friends of Heidelberg University)**.  
 - This app is free to use. If it helps your work, please consider a donation to support students and early‑career researchers:  
   **Recipient:** Gesellschaft der Freunde der Universität Heidelberg e.V.  
   **Bank:** Deutsche Bank Heidelberg  
