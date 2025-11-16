@@ -1,0 +1,52 @@
+Clinical Anonymizer – Help Guide
+
+This application lets you anonymize clinical and research PDF reports so they can
+be safely shared with AI tools such as ChatGPT, while protecting patient privacy.
+The main window lets you choose a source document, configure the output, select
+a redaction mode and manage the list of sensitive terms.
+
+Selecting a PDF document:
+ • Click the “Browse” button next to “Source PDF Document” to choose the report
+   you want to anonymize.
+ • The application automatically proposes an output filename based on the input
+   file name.
+
+Choosing the output:
+ • “Destination Folder” specifies where the anonymized PDF will be saved.
+ • You can change the output filename in the “Output Filename” field.
+
+Redaction modes:
+ • Standard Protection – only the detected sensitive words/phrases are redacted.
+ • Enhanced Protection – in addition to the detected words, some contextual area
+   to the right and below the label is also covered to hide typical “values”.
+
+Managing redaction terms:
+ • Click “Manage Redaction Terms” to open the terms manager.
+ • Use “Add New Term” to add institution-specific or project-specific labels.
+ • Select a term and click “Edit Selected” to rename it.
+ • Select a term and click “Delete Selected” to remove it from the list.
+ • “Reset to Defaults” restores the built-in multi-language list.
+
+Running anonymization:
+ • After you have configured the input, output and redaction mode, click
+   “Execute Anonymization”.
+ • A progress bar at the bottom shows the processing status.
+ • When the process is finished, you can open the output folder directly.
+
+Reviewing the anonymized document:
+ • Always inspect the resulting PDF manually before sharing it with others or
+   uploading it to external services.
+ • Check especially for:
+   – Patient names and IDs
+   – Dates of birth, admission and discharge
+   – Addresses, phone numbers, email addresses
+   – Local project codes or study identifiers
+ • If necessary, refine your redaction terms and run the anonymization again.
+
+Limitations and responsibilities:
+ • This tool supports your anonymization workflow but cannot guarantee that all
+   sensitive information has been removed.
+ • You remain responsible for verifying the document and complying with your
+   local data-protection regulations (e.g. GDPR, HIPAA) and institutional
+   policies.
+
