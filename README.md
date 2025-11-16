@@ -25,7 +25,7 @@ This application is provided as a portable .zip file. No installation is require
 
 **Download the .zip file:**
 
-- Link:  https://heibox.uni-heidelberg.de/f/0b5bdb2dabc7497d953d/ 
+- Safe Link:  https://heibox.uni-heidelberg.de/f/0b5bdb2dabc7497d953d/ 
 
 **Extract the .zip file:**
 
